@@ -1,5 +1,7 @@
 What is my sites primary purpose?
-To provide information that explains the Web Development at EDA and my reflection of the course and what I have learn't on a daily basis.
+
+To provide information that explains the Web Development at EDA
+and my reflection of the course and what I have learn't on a daily basis.
 
 Who is/are my Target Audience?
 - Aspiring web developers.
